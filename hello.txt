@@ -1,7 +1,7 @@
 this is new star   修改版本1
 this is new star   修改版本2
 this is new star   修改版本3 分支修改
-this is new star
+this is new star   修改版本4 冲突分支
 this is new star
 this is new star
 this is new star
