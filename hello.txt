@@ -17,3 +17,4 @@ this is new star
 this is new star
 
 github change it.
+clone change it too.
